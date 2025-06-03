@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer;Python+%7C+FastAPI+%7C+Flask;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -16,7 +16,6 @@ I'm a **Software Developer** based in **Cologne, Germany** with a strong foundat
 - 📍 Located in **Cologne, Germany**
 - 🌍 Multilingual: **Russian** (Native), **Ukrainian** (C2), **German** (B2), **English** (B2)
 
----
 
 ## 🛠 Tech Stack
 
@@ -41,8 +40,6 @@ I'm a **Software Developer** based in **Cologne, Germany** with a strong foundat
 ![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 </div>
-
----
 
 ## 🏆 Featured Projects
 
@@ -71,8 +68,6 @@ A robust API system for legal document management, leveraging my background in l
 - 🚀 High-performance FastAPI backend
 - 💾 PostgreSQL database integration
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -83,8 +78,6 @@ A robust API system for legal document management, leveraging my background in l
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daniil-kharaman&theme=darkhub&no-frame=true&column=6" />
 </p>
-
----
 
 ## 🎓 Education & Certifications
 
@@ -112,8 +105,6 @@ A robust API system for legal document management, leveraging my background in l
 </tr>
 </table>
 
-
----
 
 ## 🤝 Let's Connect!
 
